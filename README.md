@@ -87,7 +87,7 @@ To set the stage for later, let's also add a bug that we'll fix as part of the r
 </details>
 
 <!--Step 2-->
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Add a new feature to the release branch</h2></summary>
 
 _Great job creating a beta release :heart:_
@@ -204,7 +204,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
 </details>
 
 <!--Step 5-->
-<details id=5 open>
+<details id=5>
 <summary><h2>Step 5: Finalize the release</h2></summary>
 
 _Awesome work on the release notes :+1:_
